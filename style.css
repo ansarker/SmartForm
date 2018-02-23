@@ -9,3 +9,14 @@
 .question {
 	display: none;
 }
+
+.answers {
+	background: #fff;
+	border-radius: 5px;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+
+p.answer-paragraph > p {
+  font-size: 15px;
+}
